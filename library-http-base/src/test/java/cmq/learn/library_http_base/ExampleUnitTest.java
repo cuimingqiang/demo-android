@@ -2,6 +2,8 @@ package cmq.learn.library_http_base;
 
 import org.junit.Test;
 
+import rx.Observable;
+
 import static org.junit.Assert.*;
 
 /**
